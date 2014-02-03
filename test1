@@ -1,3 +1,0 @@
-$ cd /C:\Users\SONY\Desktop\Cakesshop
-$ git checkout -b newB
-$ git push origin newB
